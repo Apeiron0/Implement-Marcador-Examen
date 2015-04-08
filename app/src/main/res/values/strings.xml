@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Examen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="marcar">Marcar</string>
+    <string-array name="personas">
+        <item>Ana Sofia</item>
+        <item>Blanca</item>
+        <item>Camila</item>
+        <item>Damian</item>
+        <item>Ernesto</item>
+    </string-array>
+</resources>
